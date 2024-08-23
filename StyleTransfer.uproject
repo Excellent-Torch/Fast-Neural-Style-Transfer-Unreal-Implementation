@@ -78,6 +78,10 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "1673045636"
