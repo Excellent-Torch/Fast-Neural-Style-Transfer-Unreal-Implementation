@@ -71,6 +71,33 @@
 			"Enabled": true
 		},
 		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
+		},
+		{
+			"Name": "FSR3",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "ChaosClothGenerator",
+			"Enabled": true
+		},
+		{
+			"Name": "MLDeformerFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "MLAdapter",
+			"Enabled": true
+		},
+		{
+			"Name": "NeuralMorphModel",
+			"Enabled": true
+		},
+		{
 			"Name": "NeuralRendering",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -80,9 +107,13 @@
 			]
 		},
 		{
-			"Name": "HDRIBackdrop",
-			"Enabled": true
+			"Name": "ConvAI",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/696326c90d80462b8775712d2b6cc2a7"
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	],
 	"EpicSampleNameHash": "1673045636"
 }
